@@ -1,6 +1,5 @@
 # dicee
-
-A new Flutter project.
+![Screenshot](assets/images/dicee.jpg)
 
 ## Getting Started
 
